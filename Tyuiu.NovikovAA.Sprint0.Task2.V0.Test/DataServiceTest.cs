@@ -13,7 +13,7 @@ namespace Tyuiu.NovikovAA.Sprint0.Task2.V0.Test
             var name = "Игорь";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Привет..., Игорь", res);
+            Assert.AreEqual("Привет, Игорь", res);
         }
     }
 }
