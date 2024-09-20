@@ -11,7 +11,7 @@ namespace Tyuiu.NovikovAA.Sprint0.Task1.V0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World");
-            String name = "Дима";
+            String name = "Дмитрий";
             int age = 20;
             Console.WriteLine("Здрвствуйте меня зовут " + name + " мне " + age + " лет!");
             Console.ReadKey();
